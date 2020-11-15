@@ -35,7 +35,7 @@ This is a very simple, effective search tool, but one of the biggest drawbacks i
 
 ### Recommendations
 There is a lot of recommendations I would have for this webpage:
-1. I would develop a feature for "sorting" data on the table for improved use. By sorting the data, we could look at the data from 
+1. I would develop a feature for "sorting" data on the table for improved use. By sorting the data, we could look at the data set and soty by encounter duration or date to better determine, for example, what the longest sighting or UFO encounter may have been.
 2. Until there is more data from other countries added, I would remove the "country" search filter. Currently all data is from the United States, and it's an unnecessary search field.
 3. I would update the date search filter in order to search by year and month more broadly (as opposed to only inputting in the DD/MM/YYYY format). Also in this update, I would develop a date range search function.
 4. Finally, I would add a sighting report page, where users could submit their own sightings to add to the data set.
